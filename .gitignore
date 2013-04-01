@@ -1,0 +1,8 @@
+# sources
+/iterpipes-*.tar.gz
+
+# fedpkg artifacts
+/iterpipes-*/
+/.build-*.log
+/noarch/
+/python-iterpipes-*.src.rpm
